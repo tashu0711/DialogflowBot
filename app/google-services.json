@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "384821830505",
+    "firebase_url": "https://steelman-f9gu-default-rtdb.firebaseio.com",
+    "project_id": "steelman-f9gu",
+    "storage_bucket": "steelman-f9gu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384821830505:android:08ce506e49df24e30593f8",
+        "android_client_info": {
+          "package_name": "com.bae.dialogflowbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384821830505-qkm0fmu7969pu69ukqenko3osb5vlrb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoCm5kSWqWNpL9zFeR3fPCyCyMP0DmwVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384821830505-qkm0fmu7969pu69ukqenko3osb5vlrb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
